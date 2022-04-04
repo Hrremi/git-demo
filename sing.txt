@@ -1,4 +1,7 @@
-Pierwszy wiersz
+
 Drugi wiersz
 Trzeci wiersz 
 Czwarty wiersz
+
+Kolejny 
+i kolejny tekst
